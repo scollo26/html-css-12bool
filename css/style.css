@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid .row{
+    text-align: center;
+}
+
+
+.padding-20{
+    padding: 20px;
+}
+
+
+.green{
+    background-color: rgb(18, 199, 18);
+
+}
+
+.margin-bottom-4{
+    margin-top: 40px;
+}
