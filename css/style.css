@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+.height-80{
+    height: 80px;
+}
+
+.height-50{
+    height: 50%;
+   
+}
+
 .container-fluid .row{
     text-align: center;
 }
@@ -21,4 +30,27 @@
 
 .margin-bottom-4{
     margin-top: 40px;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-end{
+    justify-content: end;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.justify-bet{
+    justify-content: space-between;
+}
+
+.align-center{
+    align-self: center;
+}
+.align-bottom{
+    align-self: end;
 }
